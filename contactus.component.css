@@ -1,0 +1,93 @@
+
+form label {
+    font-size: x-large;
+    color: white;
+    
+    }
+    form div{
+        margin: 10px;
+    }  
+    form input{
+        padding: 14px;
+        background-color: black;
+        border: 2px solid white;
+       
+    }
+    
+    form select{
+      padding: 14px;
+      background-color: black;
+        border: 2px solid white;
+        color: white;
+    }
+    
+  .footer div{
+    padding: 25px;
+  }
+  .footer div li{
+    list-style-type: none;
+    color:rgb(0, 179, 255);
+  }
+  .footer div li a{
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+    line-height:2.5;
+  }
+  .footer div form label{
+    color: white;
+  }
+  .footer div form input{
+    padding: 15px;
+    border: 1px solid rgb(0, 179, 255); 
+  }
+  .footer div form button{
+    padding: 12px;
+    background-color:rgb(0, 179, 255); 
+    border-radius: 10%;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 140%;
+    color: white;
+    margin-left: 60px;
+  }
+  .footer div img{
+    padding: 15px;
+  }
+  .footer div{
+    padding: 25px;
+  }
+  .footer div li{
+    list-style-type: none;
+    color:rgb(0, 179, 255);
+  }
+  .footer div li a{
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+    line-height:2.5;
+  }
+  .footer div form label{
+    color: white;
+  }
+  .footer div form input{
+    padding: 15px;
+    border: 1px solid rgb(0, 179, 255); 
+  }
+  .footer div form button{
+    padding: 12px;
+    background-color:rgb(0, 179, 255); 
+    border-radius: 10%;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 140%;
+    color: white;
+    margin-left: 60px;
+  }
+  .footer div img{
+    padding: 15px;
+  }
+  .address{
+  
+    border-bottom: 3px solid rgb(0, 179, 255);;
+  }
